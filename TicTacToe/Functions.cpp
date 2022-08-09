@@ -1,6 +1,11 @@
 #include <iostream>
 
-//Version 2.0 (August 1st, 2022)
+//Version 1.0 (August 1st, 2022)
+// --Initial Version
+
+//Version 1.1 (Auguest 8th, 2022)
+//Change Log
+//Added this 1.1 version title to test for Git.
 
 char gameboard[9] = {'1', '2', '3', '4', '5', '6', '7', '8', '9'}; //A char array to hold our 9 spaces on the game board. Allows them to be changed and updated.
 int player = 1; //An int variable which allows us to keep track of whose turn it is.
