@@ -7,6 +7,15 @@
 //Change Log
 //Added this 1.1 version title to test for Git.
 
+
+//Version 1.2 (August 10th, 2022)
+//Change Log
+//Testing the Git Amend feature...lets see what happens.
+
+//Version 1.3 (August 13th, 2022)
+//Change Log
+//Attempting to merge the new branch onto the main branch.
+
 char gameboard[9] = {'1', '2', '3', '4', '5', '6', '7', '8', '9'}; //A char array to hold our 9 spaces on the game board. Allows them to be changed and updated.
 int player = 1; //An int variable which allows us to keep track of whose turn it is.
 int position; //An int variable named position which allows the player to pick a position.
